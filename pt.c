@@ -67,3 +67,4 @@ void Opp(){
    Opp = sqrt(Opp);
    printf("\nOpposite: %lf",Opp);
 }
+
